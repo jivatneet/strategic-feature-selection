@@ -25,7 +25,7 @@ The data generation code is provided in
 Colab. The generated data files are:
 
 - `data/upcoding/upcoding_v28_top10_ha2025_export.zip`
-- CMS coefficient CSV files under `data/upcoding`
+- CMS-HCC V28 coefficients CSV file under `data/upcoding`
 
 We also provide these files in the repository so the experiments can be
 reproduced without rerunning data generation. The notebooks extract archives
