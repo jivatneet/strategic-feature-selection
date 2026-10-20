@@ -1,0 +1,15 @@
+block_id,block_name,hcc1,hcc20,hcc21,hcc22,hcc23,hcc35,hcc38,hcc51,hcc62,hcc64,hcc65,hcc77,hcc78,hcc93,hcc109,hcc155,hcc182,hcc221,hcc226,hcc228,hcc238,hcc249,hcc264,hcc267,hcc276,hcc280,hcc300,hcc327,hcc328,hcc398
+1,"COPD, interstitial lung disorders, and other chronic lung disorders",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2,"Acute or chronic heart failure, except end-stage",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+3,Diabetes with acute or chronic complications,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Morbid obesity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,"Drug use disorder, moderate/severe, or non-psychotic complications",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,"Chronic kidney disease, moderate, stage 3",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7,"Major depression, moderate/severe, without psychosis",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Rheumatoid arthritis and other specified inflammatory rheumatic disorders,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Hemiplegia/hemiparesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Alcohol use disorder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Substance-use model branch,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Mental-health model branch,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Vascular disease model branch,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+14,Cancer model branch,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

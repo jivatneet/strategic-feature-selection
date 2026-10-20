@@ -1,0 +1,31 @@
+block_id,block_name,feature,description,active,coding_sensitive,signal_moderated,pre_specified_diagonal_score
+1,"COPD, interstitial lung disorders, and other chronic lung disorders",hcc280,"Chronic Obstructive Pulmonary Disease, Interstitial Lung Disorders, and Other Chronic Lung Disorders",True,True,True,False
+2,"Acute or chronic heart failure, except end-stage",hcc224,Acute on Chronic Heart Failure,False,True,False,False
+2,"Acute or chronic heart failure, except end-stage",hcc225,Acute Heart Failure (Excludes Acute on Chronic),False,True,False,False
+2,"Acute or chronic heart failure, except end-stage",hcc226,"Heart Failure, Except End- Stage and Acute",True,True,True,False
+3,Diabetes with acute or chronic complications,hcc36,Diabetes with Severe Acute Complications,False,True,False,False
+3,Diabetes with acute or chronic complications,hcc37,Diabetes with Chronic Complications,False,True,False,False
+3,Diabetes with acute or chronic complications,hcc38,"Diabetes with Glycemic, Unspecified, or No Complications",True,True,True,False
+4,Morbid obesity,hcc48,Morbid Obesity,False,True,False,False
+5,"Drug use disorder, moderate/severe, or non-psychotic complications",hcc137,"Drug Use Disorder, Moderate/Severe, or Drug Use with Non-Psychotic Complications",False,True,False,False
+6,"Chronic kidney disease, moderate, stage 3",hcc328,"Chronic Kidney Disease, Moderate (Stage 3B)",True,True,True,False
+6,"Chronic kidney disease, moderate, stage 3",hcc329,"Chronic Kidney Disease, Moderate (Stage 3, Except 3B)",False,True,False,False
+7,"Major depression, moderate/severe, without psychosis",hcc155,"Major Depression, Moderate or Severe, without Psychosis",True,True,True,False
+8,Rheumatoid arthritis and other specified inflammatory rheumatic disorders,hcc93,Rheumatoid Arthritis and Other Specified Inflammatory Rheumatic Disorders,True,True,True,False
+9,Hemiplegia/hemiparesis,hcc253,Hemiplegia/Hemiparesis,False,True,False,False
+10,Alcohol use disorder,hcc139,"Alcohol Use Disorder, Moderate/Severe, or Alcohol Use with Specified Non- Psychotic Complications",False,True,False,False
+11,Substance-use model branch,hcc137,"Drug Use Disorder, Moderate/Severe, or Drug Use with Non-Psychotic Complications",False,True,False,False
+11,Substance-use model branch,hcc138,"Drug Use Disorder, Mild, Uncomplicated, Except Cannabis",False,False,False,False
+11,Substance-use model branch,hcc139,"Alcohol Use Disorder, Moderate/Severe, or Alcohol Use with Specified Non- Psychotic Complications",False,True,False,False
+12,Mental-health model branch,hcc151,Schizophrenia,False,False,False,False
+12,Mental-health model branch,hcc152,"Psychosis, Except Schizophrenia",False,False,False,False
+12,Mental-health model branch,hcc153,Personality Disorders; Anorexia/Bulimia Nervosa,False,False,False,False
+12,Mental-health model branch,hcc154,Bipolar Disorders without Psychosis,False,False,False,False
+12,Mental-health model branch,hcc155,"Major Depression, Moderate or Severe, without Psychosis",True,True,True,False
+13,Vascular disease model branch,hcc263,Atherosclerosis of Arteries of the Extremities with Ulceration or Gangrene,False,False,False,False
+13,Vascular disease model branch,hcc264,Vascular Disease with Complications,True,False,False,True
+13,Vascular disease model branch,hcc267,Deep Vein Thrombosis and Pulmonary Embolism,True,False,False,True
+14,Cancer model branch,hcc20,Lung and Other Severe Cancers,True,False,False,False
+14,Cancer model branch,hcc21,Lymphoma and Other Cancers,True,False,False,True
+14,Cancer model branch,hcc22,"Bladder, Colorectal, and Other Cancers",True,False,False,False
+14,Cancer model branch,hcc23,"Prostate, Breast, and Other Cancers and Tumors",True,False,False,True
