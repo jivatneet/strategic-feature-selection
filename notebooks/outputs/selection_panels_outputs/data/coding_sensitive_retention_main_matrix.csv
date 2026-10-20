@@ -1,0 +1,29 @@
+row,column,value
+Rheumatoid arthritis (HCC93),Top-ten exclusion,0.0
+Rheumatoid arthritis (HCC93),Ours $k=20$,1.0
+Rheumatoid arthritis (HCC93),Ours $k=25$,1.0
+Rheumatoid arthritis (HCC93),Full ridge,1.0
+Heart failure (HCC226),Top-ten exclusion,0.0
+Heart failure (HCC226),Ours $k=20$,0.0
+Heart failure (HCC226),Ours $k=25$,1.0
+Heart failure (HCC226),Full ridge,1.0
+COPD/lung (HCC280),Top-ten exclusion,0.0
+COPD/lung (HCC280),Ours $k=20$,1.0
+COPD/lung (HCC280),Ours $k=25$,1.0
+COPD/lung (HCC280),Full ridge,1.0
+Depression (HCC155),Top-ten exclusion,0.0
+Depression (HCC155),Ours $k=20$,1.0
+Depression (HCC155),Ours $k=25$,1.0
+Depression (HCC155),Full ridge,1.0
+Diabetes (HCC38),Top-ten exclusion,0.0
+Diabetes (HCC38),Ours $k=20$,1.0
+Diabetes (HCC38),Ours $k=25$,1.0
+Diabetes (HCC38),Full ridge,1.0
+CKD stage 3B (HCC328),Top-ten exclusion,0.0
+CKD stage 3B (HCC328),Ours $k=20$,0.0
+CKD stage 3B (HCC328),Ours $k=25$,1.0
+CKD stage 3B (HCC328),Full ridge,1.0
+Fraction retained,Top-ten exclusion,0.0
+Fraction retained,Ours $k=20$,0.6666666666666666
+Fraction retained,Ours $k=25$,1.0
+Fraction retained,Full ridge,1.0
