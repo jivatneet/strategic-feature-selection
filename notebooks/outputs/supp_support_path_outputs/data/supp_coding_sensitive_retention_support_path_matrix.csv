@@ -1,0 +1,43 @@
+row,k,retained
+Rheumatoid arthritis (HCC93),5,1.0
+Rheumatoid arthritis (HCC93),10,1.0
+Rheumatoid arthritis (HCC93),15,1.0
+Rheumatoid arthritis (HCC93),20,1.0
+Rheumatoid arthritis (HCC93),25,1.0
+Rheumatoid arthritis (HCC93),30,1.0
+Heart failure (HCC226),5,0.0
+Heart failure (HCC226),10,0.0
+Heart failure (HCC226),15,0.0
+Heart failure (HCC226),20,0.0
+Heart failure (HCC226),25,1.0
+Heart failure (HCC226),30,1.0
+COPD/lung (HCC280),5,0.0
+COPD/lung (HCC280),10,0.0
+COPD/lung (HCC280),15,0.0
+COPD/lung (HCC280),20,1.0
+COPD/lung (HCC280),25,1.0
+COPD/lung (HCC280),30,1.0
+Depression (HCC155),5,0.0
+Depression (HCC155),10,1.0
+Depression (HCC155),15,1.0
+Depression (HCC155),20,1.0
+Depression (HCC155),25,1.0
+Depression (HCC155),30,1.0
+Diabetes (HCC38),5,0.0
+Diabetes (HCC38),10,1.0
+Diabetes (HCC38),15,1.0
+Diabetes (HCC38),20,1.0
+Diabetes (HCC38),25,1.0
+Diabetes (HCC38),30,1.0
+CKD stage 3B (HCC328),5,0.0
+CKD stage 3B (HCC328),10,0.0
+CKD stage 3B (HCC328),15,0.0
+CKD stage 3B (HCC328),20,0.0
+CKD stage 3B (HCC328),25,1.0
+CKD stage 3B (HCC328),30,1.0
+Fraction retained,5,0.16666666666666666
+Fraction retained,10,0.5
+Fraction retained,15,0.5
+Fraction retained,20,0.6666666666666666
+Fraction retained,25,1.0
+Fraction retained,30,1.0

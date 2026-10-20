@@ -1,0 +1,7 @@
+feature,description,baseline_prevalence,theta_star,abs_theta_star,top10_group,coding_sensitive,group_score,Hinv_diag,signal_moderated,active,signal_abs,label
+hcc93,Rheumatoid Arthritis and Other Specified Inflammatory Rheumatic Disorders,0.0712,0.617,0.617,Rheumatoid arthritis and other specified inflammatory rheumatic disorders,True,0.2777777777777778,0.049723222222222224,True,True,0.617,Rheumatoid arthritis (HCC93)
+hcc226,"Heart Failure, Except End- Stage and Acute",0.0048,0.36,0.36,"Acute or chronic heart failure, except end-stage",True,0.7222222222222222,0.2045974360587002,True,True,0.36,Heart failure (HCC226)
+hcc280,"Chronic Obstructive Pulmonary Disease, Interstitial Lung Disorders, and Other Chronic Lung Disorders",0.0152,0.319,0.319,"COPD, interstitial lung disorders, and other chronic lung disorders",True,1.0,0.14000100000000001,True,True,0.319,COPD/lung (HCC280)
+hcc155,"Major Depression, Moderate or Severe, without Psychosis",0.0954,0.299,0.299,"Major depression, moderate/severe, without psychosis",True,0.2777777777777778,0.09663097903563941,True,True,0.299,Depression (HCC155)
+hcc38,"Diabetes with Glycemic, Unspecified, or No Complications",0.132,0.166,0.166,Diabetes with acute or chronic complications,True,0.6666666666666666,0.19110162893081759,True,True,0.166,Diabetes (HCC38)
+hcc328,"Chronic Kidney Disease, Moderate (Stage 3B)",0.0054,0.127,0.127,"Chronic kidney disease, moderate, stage 3",True,0.3333333333333333,0.110126786163522,True,True,0.127,CKD stage 3B (HCC328)
